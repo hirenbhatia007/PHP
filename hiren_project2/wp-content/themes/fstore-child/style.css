@@ -1,0 +1,19 @@
+/*
+Theme Name:  fstore - child
+Description: fstore - WooCommerce WordPress Theme
+Author: Hiren bhatiya
+
+Version: 1.0
+Template: fstore
+Text Domain: fstore-child
+License: 0.1.0
+
+*/
+@import url("../fstore/style.css");
+
+body{
+    background-color:aliceblue;
+}
+.custom-logo{
+    border-radius: 50%;
+    }
